@@ -4,7 +4,7 @@ Esse projeto consiste em um sistema básico de CRUD (Create, Read, Update, Delet
 ## Funcionalidades
 O sistema permite realizar as seguintes operações:
 
-- ** Cadastro de Aluno **: permite cadastrar um novo aluno, informando nome, matrícula, curso e período.
+- ** Cadastro de Aluno : permite cadastrar um novo aluno, informando nome, matrícula, curso e período.
 - ** Listagem de Alunos **: exibe a lista de todos os alunos cadastrados, com suas informações.
 - ** Atualização de Aluno **: permite atualizar as informações de um aluno já cadastrado.
 - ** Exclusão de Aluno  **: permite excluir um aluno cadastrado.
